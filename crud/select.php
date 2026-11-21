@@ -1,6 +1,6 @@
+<?php
 // データ取得サンプル (crud/select.php)
 // todos テーブルからデータを全件取得するスクリプトを作成します。
-<?php
 
 require_once __DIR__ . '/../config/supabase.php';
 

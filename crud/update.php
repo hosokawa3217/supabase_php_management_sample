@@ -1,6 +1,5 @@
-//データ更新サンプル (crud/update.php)
-
 <?php
+//データ更新サンプル (crud/update.php)
 
 require_once __DIR__ . '/../config/supabase.php';
 

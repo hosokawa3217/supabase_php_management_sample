@@ -1,6 +1,6 @@
+<?php
 // データ追加サンプル (crud/insert.php)
 // 新規タスクを追加するスクリプトを作成します。
-<?php
 
 require_once __DIR__ . '/../config/supabase.php';
 

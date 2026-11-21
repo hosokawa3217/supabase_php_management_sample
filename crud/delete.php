@@ -1,6 +1,5 @@
-//削除サンプル (crud/delete.php)
-
 <?php
+//削除サンプル (crud/delete.php)
 
 require_once __DIR__ . '/../config/supabase.php';
 
